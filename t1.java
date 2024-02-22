@@ -1,6 +1,6 @@
 package service;
 
-public class MainService {
+public class t1 {
 	double positionCalc(double gravity, double initialVelocity, double, initialPosition, double fallingTime) {
 		return(0.5*)
 	}
